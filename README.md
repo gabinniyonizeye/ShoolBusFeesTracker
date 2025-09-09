@@ -24,4 +24,4 @@ This project was built as part of a Software Engineering coursework.
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fees-tracker.git
+   git clone https://github.com/gabinniyonizeye/fees-tracker.git
